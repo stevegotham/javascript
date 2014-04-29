@@ -1,9 +1,9 @@
-var games = prompt ("How many rounds of ro-sham-bo would you like to play?");
+var rounds = prompt ("How many rounds of ro-sham-bo would you like to play?");
 
 var player = 0;
 var computer =0;
 
-for (i=0;i<games;i++) {
+for (i=0;i<rounds;i++) {
 
 var userChoice = prompt ("Choose rock, paper, or scissors.");
 
