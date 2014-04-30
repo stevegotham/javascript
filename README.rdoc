@@ -1,1 +1,1 @@
-This is a rock/paper/scissors program written from memory a few days after finishing the javascript tutorial from Code Academy. I added a few touches of my own, such as prompting for the number of rounds to play and keeping a tally of player vs computer.
+This is a rock/paper/scissors program written from memory a few days after finishing that part of the javascript tutorial from Code Academy. I added a few touches of my own, such as prompting for the number of rounds to play and keeping a tally of player vs computer.
