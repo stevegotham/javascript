@@ -5,7 +5,7 @@ var computer =0;
 
 for (i=0;i<rounds;i++) {
 
-	var userChoice = prompt ("Choose rock, paper, or scissors.");
+	var userChoice = prompt ("Choose rock, paper, or scissors.").toLowerCase();
 
 	if (userChoice!=="rock" && userChoice!=="paper" && userChoice!=="scissors") {
 		console.log("You must choose rock, paper, or scissors");
@@ -75,4 +75,4 @@ else if (player == computer) {
 }
 else {
 	console.log("You lost!! :(");
-}
+};
